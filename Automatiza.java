@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class AutomatizaC6XP {
+public class Automatiza {
     public static void main(String[] args) {
         String path = args[0];
         File file = new File(path);
